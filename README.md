@@ -1,6 +1,6 @@
-## SWDCI
+## RWDCI
 
-# Surface Wave Dispersion Curve Inversion
+# Rayleigh Wave Dispersion Curve Inversion
 
 "An inexact augmented Lagrangian method for nonlinear dispersion curve inversion using Dix-type global linear approximation"
 
