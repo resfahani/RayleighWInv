@@ -4,7 +4,7 @@
 
 "An inexact augmented Lagrangian method for nonlinear dispersion curve inversion using Dix-type global linear approximation"
 
-This Folk uses Dix-type relation operator and Finite element forward modeling for derivative-free dispersion cuve inversion based on following article
+This Fork uses Dix-type relation operator and finite-element forward modeling for derivative-free dispersion cuve inversion based on following article:
 
 
 Citation: "An inexact augmented Lagrangian method for nonlinear dispersion-curve inversion using Dix-type global linear approximation
